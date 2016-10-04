@@ -1,0 +1,33 @@
+sprites.png
+size: 20, 100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+floor
+  rotate: false
+  xy: 0, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+floor2
+  rotate: false
+  xy: 0, 20
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+floor3
+  rotate: false
+  xy: 0, 40
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 0, 60
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
